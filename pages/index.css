@@ -25,18 +25,6 @@
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
-@import url(../blocks/photo-grid/__item/_train/photo-grid__item_train.css);
-@import url(../blocks/photo-grid/__item/_atharva-tulsi/photo-grid__item_atharva-tulsi.css);
-@import url(../blocks/photo-grid/__item/_tuman/photo-grid__item_tuman.css);
-@import url(../blocks/photo-grid/__item/_sochi/photo-grid__item_sochi.css);
-@import url(../blocks/photo-grid/__item/_arisa/photo-grid__item_arisa.css);
-@import url(../blocks/photo-grid/__item/_baikal/photo-grid__item_baikal_sea.css);
-@import url(../blocks/photo-grid/__item/_elbrus/photo-grid__item_elbrus.css);
-@import url(../blocks/photo-grid/__item/_kondratiev/photo-grid__item_kondratiev.css);
-@import url(../blocks/photo-grid/__item/_baikal/photo-grid__item_baikal_maountain.css);
-@import url(../blocks/photo-grid/__item/_ergaki/photo-grid__item_ergaki.css);
-@import url(../blocks/photo-grid/__item/_kamchatka/photo-grid__item_kamchatka_tuman.css);
-@import url(../blocks/photo-grid/__item/_kamchatka/photo-grid__item_kamchatka-sun.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
